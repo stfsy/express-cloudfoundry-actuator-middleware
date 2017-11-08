@@ -54,6 +54,6 @@
         "node": "6"
     },
     "dependencies": {
-        "node-cloudfoundry-actuator": "^1.0.0"
+        "node-cloudfoundry-actuator": "^2.0.0"
     }
 }
