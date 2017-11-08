@@ -1,3 +1,14 @@
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.0.0...v1.1.0) (2017-11-08)
+
+
+### Features
+
+* use cloud foundry actuator module ([1fcc763](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/1fcc763))
+* use v2 of cloud foundry actuator ([76032a8](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/76032a8))
+
+
+
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v0.1.0...v1.0.0) (2017-11-04)
 
