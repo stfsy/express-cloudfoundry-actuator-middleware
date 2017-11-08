@@ -54,6 +54,6 @@
         "node": "6"
     },
     "dependencies": {
-        "jsonwebtoken": "^8.0.1"
+        "node-cloudfoundry-actuator": "^2.0.0"
     }
 }
