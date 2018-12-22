@@ -6,6 +6,6 @@ npm update
 npm test
 git add *package*
 git commit -m "feat: update dependencies"
-git push origin master
+npm run release-minor
 git checkout dev || true
 git rebase master
