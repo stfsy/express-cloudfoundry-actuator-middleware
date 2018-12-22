@@ -1,3 +1,18 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.1.0...v1.2.0) (2018-12-22)
+
+
+### Bug Fixes
+
+* unsynced package lock file ([d894a6e](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/d894a6e))
+
+
+### Features
+
+* update dependencies ([ae525ec](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/ae525ec))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.0.0...v1.1.0) (2017-11-08)
 
