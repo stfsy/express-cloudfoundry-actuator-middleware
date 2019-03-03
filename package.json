@@ -6,7 +6,7 @@
     "scripts": {
         "actuator": "cloudfoundry-actuator-cli",
         "setup": "npm run release-patch",
-        "start": "node lib/server",
+        "start": "node server",
         "test-watch": "watch \"npm run test\" lib test",
         "test": "npm run actuator && mocha test/spec/**/*.spec.js --check-leaks",
         "coverage": "istanbul cover node_modules/mocha/bin/_mocha -- test/spec/**/*.spec.js --check-leaks",
