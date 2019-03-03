@@ -1,3 +1,13 @@
+<a name="1.3.0"></a>
+# [1.3.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.2.0...v1.3.0) (2019-03-03)
+
+
+### Features
+
+* call new actuator endpoint ([e7be8f4](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/e7be8f4))
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.1.0...v1.2.0) (2018-12-22)
 
