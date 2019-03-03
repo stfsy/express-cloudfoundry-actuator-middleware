@@ -1,5 +1,6 @@
 ---
 name: cloudfoundry_actuator_nodejs_support
 buildpack: nodejs_buildpack
+health-check-type: http
 env:
   NODE_DEBUG: cloudfoundry-actuator-middleware
