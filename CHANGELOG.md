@@ -1,3 +1,13 @@
+<a name="1.4.0"></a>
+# [1.4.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.3.0...v1.4.0) (2020-03-22)
+
+
+### Features
+
+* update dependencies ([bc5d242](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/bc5d242))
+
+
+
 <a name="1.3.0"></a>
 # [1.3.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.2.0...v1.3.0) (2019-03-03)
 
