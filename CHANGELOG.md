@@ -1,3 +1,13 @@
+# [1.8.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.7.0...v1.8.0) (2021-05-13)
+
+
+### Features
+
+* update outdated dependencies ([b4eadc1](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/b4eadc1d95692bb4ccd4858d9326643003f8e9f4))
+* update vulnerable dependencies ([8501a80](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/commit/8501a80412d56e62978a2906596b4553c44b5fbf))
+
+
+
 # [1.7.0](https://github.com/stfsy/express-cloudfoundry-actuator-middleware/compare/v1.6.0...v1.7.0) (2021-02-20)
 
 
