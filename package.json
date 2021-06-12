@@ -49,7 +49,7 @@
         "jsdoc": "^3.6.6",
         "minami": "^1.1.1",
         "mocha": "^8.4.0",
-        "node-cloudfoundry-actuator-cli": "^2.4.0"
+        "node-cloudfoundry-actuator-cli": "^2.5.0"
     },
     "engines": {
         "node": "6"
