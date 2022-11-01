@@ -44,7 +44,7 @@
         "chai": "^4.3.6",
         "chai-spies": "^1.0.0",
         "conventional-changelog-cli": "^2.2.2",
-        "express": "^4.18.1",
+        "express": "^4.18.2",
         "istanbul": "^0.4.4",
         "jsdoc": "^3.6.11",
         "minami": "^1.1.1",
