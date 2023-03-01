@@ -46,7 +46,7 @@
         "conventional-changelog-cli": "^2.2.2",
         "express": "^4.18.2",
         "istanbul": "^0.4.4",
-        "jsdoc": "^4.0.0",
+        "jsdoc": "^4.0.2",
         "minami": "^1.1.1",
         "mocha": "^10.2.0",
         "node-cloudfoundry-actuator-cli": "^2.5.0"
